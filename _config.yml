@@ -22,10 +22,10 @@ url: https://chen709847237.github.io
 author:
   name: Ray Chen
   twitter:
-  picture:
+  picture: "/_pic/68927394_p0.jpg"
 twitter_username:
 github_username: Ray_78516
-logo: /_pic/chrome.png
+logo: "/_pic/chrome.png"
 search: true
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia

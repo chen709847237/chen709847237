@@ -25,7 +25,7 @@ author:
   picture:
 twitter_username:
 github_username: Ray_78516
-logo: /_pic/f-logo-change.png
+logo: /_pic/chrome.png
 search: true
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia

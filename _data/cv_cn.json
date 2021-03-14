@@ -1,19 +1,19 @@
 {
   "basics": {
     "name": "Ray, Jiarui Chen",
-    "label": "@Faculty of Science and Technology, University of Macau",
+    "label": "@澳門大學-科技學院",
     "picture": "",
     "email1": "chen709847237@gmail.com", 
     "email2": "mb85409@um.edu.mo",
     "phone": ,
     "website": "chen709847237.github.io",
-    "summary": "Hello there, Mr. Chen currently is a postgraduate student pursuing Master's degree at the University of Macau. His research interests include Machine Learning Techniques (Convolutional Neural Network, Graph Convolutional Neural Network, etc.) and Bioinformatics (Drug Virtual Screening, Toxicity Prediction, Peptide Activity Prediction, etc.)",
+    "summary": "Hi, 我目前為澳門大學科技學院的一名碩士研究生。我的研究方向為機器學習算法（包括：卷积神经网络，图卷积神经网络等）在生物信息學（包括：药物虚拟筛选，毒性预测，肽活性预测等）中的應用。)",
     "location": {
-      "address": "University of Macau, Avenida da Universidade",
+      "address": "澳門大學，大學大馬路",
       "postalCode": "",
-      "city": "Taipa",
-      "countryCode": "China",
-      "region": "Macau, "
+      "city": "氹仔",
+      "countryCode": "中國",
+      "region": "澳門, "
     },
     "profiles": [
       {

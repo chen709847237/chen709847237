@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitæ
+title: My CV (EN ver.)
 layout: cv
 actions:
   - label: "Download as PDF"

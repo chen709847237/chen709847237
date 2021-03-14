@@ -104,7 +104,7 @@
   ],
   "skills": [
     {
-      "name": "Programing Languages",
+      "name": "編程語言",
       "keywords": [
         "Python",
         "Java",
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Programing Tools",
+      "name": "編程語言",
       "keywords": [
         "MATLAB",
         "PyCharm", 
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "name": "Machine Learning Tools",
+      "name": "機器學習工具/框架",
       "keywords": [
         "Pytorch",
         "TensorFlow", 

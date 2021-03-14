@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Jiarui Chen (Ray)",
-    "label": "@University of Macau",
+    "name": "Ray, Jiarui Chen",
+    "label": "@Department of Computer and Information Science, University of Macau",
     "picture": "",
     "email1": "chen709847237@gmail.com", 
     "email2": "mb85409@um.edu.mo",
@@ -10,9 +10,9 @@
     "summary": "Hello there, ",
     "location": {
       "address": "University of Macau, Avenida da Universidade",
-      "postalCode": "",
+      "postalCode": ,
       "city": "Taipa",
-      "countryCode": "People's Republic of China",
+      "countryCode": "China",
       "region": "Macau, "
     },
     "profiles": [

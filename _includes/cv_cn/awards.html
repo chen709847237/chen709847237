@@ -13,7 +13,7 @@
           <div class="date-award">{{ a.date }}</div>
         {% endif %}
         {% if a.awarder %}
-          <div class="awarder">by <strong>{{ a.awarder }}</strong></div>
+          <div class="awarder"><strong>{{ a.awarder }}</strong> 頒發</div>
         {% endif %}
         {% if a.summary %}
           <div class="summary">{{ a.summary | markdownify }}</div>

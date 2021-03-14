@@ -92,7 +92,7 @@
   "publications": [
     {
       "name": "BESTox: A Convolutional Neural Network Regression Model Based on Binary-Encoded SMILES for Acute Oral Toxicity Prediction of Chemical Compounds",
-      "author": "Jiarui Chen, H.H. Cheong and Shirley W. I. Siu*",
+      "author": "<strong>Jiarui Chen</strong>, H.H. Cheong and Shirley W. I. Siu*",
       "publisher": "AlCoB 2020",
       "releaseDate": "2020",
       "website": "https://doi.org/10.1007/978-3-030-42266-0_12",

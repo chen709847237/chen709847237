@@ -10,10 +10,10 @@
           <h4 class="title">{{ a.title }}</h4>
         {% endif %}
         {% if a.date %}
-          <div class="date">{{ a.date }}</div>
+          <div class="date-award">{{ a.date }}</div>
         {% endif %}
         {% if a.awarder %}
-          <div class="date-award">by <strong>{{ a.awarder }}</strong></div>
+          <div class="awarder">by <strong>{{ a.awarder }}</strong></div>
         {% endif %}
         {% if a.summary %}
           <div class="summary">{{ a.summary | markdownify }}</div>

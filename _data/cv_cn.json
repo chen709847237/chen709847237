@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Ray, Jiarui Chen",
+    "label": "@Faculty of Science and Technology, University of Macau",
+    "picture": "",
+    "email1": "chen709847237@gmail.com", 
+    "email2": "mb85409@um.edu.mo",
+    "phone": ,
+    "website": "chen709847237.github.io",
+    "summary": "Hello there, Mr. Chen currently is a postgraduate student pursuing Master's degree at the University of Macau. His research interests include Machine Learning Techniques (Convolutional Neural Network, Graph Convolutional Neural Network, etc.) and Bioinformatics (Drug Virtual Screening, Toxicity Prediction, Peptide Activity Prediction, etc.)",
+    "location": {
+      "address": "University of Macau, Avenida da Universidade",
+      "postalCode": "",
+      "city": "Taipa",
+      "countryCode": "China",
+      "region": "Macau, "
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Ray_78516",
+        "url": "https://github.com/chen709847237"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "@ University of Macau",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "Aug.2018",
+      "endDate": "",
+      "gpa": "3.8",
+      "courses": [
+        "CISC7013 - PRINCIPLES AND APPLICATIONS OF ARTIFICIAL INTELLIGENCE",
+        "CISC7018 - ADVANCES IN PATTERN RECOGNITION",
+        "CISC7025 - STRUCTURAL BIOINFORMATICS",
+        "CISC7021 - APPLIED NATURAL LANGUAGE PROCESSING"
+      ]
+    },
+    {
+      "institution": "@ Northwestern Polytechnical University MingDe College",
+      "area": "Computer Science & Technology",
+      "studyType": "Bachelor",
+      "startDate": "Sept.2013",
+      "endDate": "Jul.2017",
+      "gpa": "3.5",
+      "courses": [
+        "C & Java Programming",
+        "Data Structure",
+        "Operating System",
+        "Compilers Principles",
+        "Digital Circuits and Logic Programming",
+        "Principle of Computer Composition",
+        "Linear Algebra",
+        "Discrete Mathematics",
+        "Principles of Database and Application",
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Outstanding Graduates",
+      "date": "Jun.2017",
+      "awarder": "Northwestern Polytechnical University MingDe College",
+      "summary": ""
+    }, 
+    {
+      "title": "National Scholarship",
+      "date": "Nov.2016",
+      "awarder": "Ministry of Education of the People's Republic of China",
+      "summary": ""
+    }, 
+    {
+      "title": "Outstanding Student Leader",
+      "date": "Nov.2016",
+      "awarder": "Northwestern Polytechnical University MingDe College",
+      "summary": ""
+    }, 
+    {
+      "title": "Top-class scholarship",
+      "date": "Nov.2016 and Nov.2015",
+      "awarder": "Northwestern Polytechnical University MingDe College",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "BESTox: A Convolutional Neural Network Regression Model Based on Binary-Encoded SMILES for Acute Oral Toxicity Prediction of Chemical Compounds",
+      "author": "<strong>Jiarui Chen</strong>, H.H. Cheong and Shirley W. I. Siu*",
+      "publisher": "AlCoB 2020",
+      "releaseDate": "2020",
+      "website": "https://doi.org/10.1007/978-3-030-42266-0_12",
+      "summary": ""
+    },
+    {
+      "name": "Machine Learning Approaches for Quality Assessment of Protein Structures",
+      "author": "<strong>Jiarui Chen</strong> and Shirley W. I. Siu*",
+      "publisher": "Biomolecules, JCR Q2",
+      "releaseDate": "2020",
+      "website": "https://doi.org/10.3390/biom10040626",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programing Languages",
+      "keywords": [
+        "Python",
+        "Java",
+        "C",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "Programing Tools",
+      "keywords": [
+        "MATLAB",
+        "PyCharm", 
+        "MATLAB", "Eclipse"
+      ]
+    },
+    {
+      "name": "Machine Learning Tools",
+      "keywords": [
+        "Pytorch",
+        "TensorFlow", 
+        "Scikit-learn", "OpenCV"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "IELTS 6.5 (L:7.0 R:6.5 S:6.0 W:5.5) update: 12/26/2020"
+    }
+  ]
+    }
+  ]
+}

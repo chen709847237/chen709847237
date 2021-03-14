@@ -159,13 +159,14 @@ main {
     }
 
     .date-award {
+      margin-bottom: 1rem;  
       color: tint($text-color, 40%);
       font-family: $monospace-font-family;
       font-size: 80%;
     }
      
     .awarder {
-      margin: 0;
+      margin: 1rem 0 0;
     }
 
     .courses-title,

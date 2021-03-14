@@ -28,33 +28,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Ointment",

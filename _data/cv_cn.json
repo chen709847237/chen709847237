@@ -25,25 +25,25 @@
   },
   "education": [
     {
-      "institution": "@ University of Macau",
-      "area": "Computer Science",
-      "studyType": "Master",
-      "startDate": "Aug.2018",
+      "institution": "@ 澳門大學",
+      "area": "計算機科學",
+      "studyType": "碩士",
+      "startDate": "2018年8月",
       "endDate": "",
       "gpa": "3.8",
       "courses": [
-        "CISC7013 - PRINCIPLES AND APPLICATIONS OF ARTIFICIAL INTELLIGENCE",
-        "CISC7018 - ADVANCES IN PATTERN RECOGNITION",
-        "CISC7025 - STRUCTURAL BIOINFORMATICS",
-        "CISC7021 - APPLIED NATURAL LANGUAGE PROCESSING"
+        "CISC7013 - 人工智能原理及應用",
+        "CISC7018 - 模式識別",
+        "CISC7025 - 結構生物信息學",
+        "CISC7021 - 自然語言處理及應用"
       ]
     },
     {
-      "institution": "@ Northwestern Polytechnical University MingDe College",
-      "area": "Computer Science & Technology",
-      "studyType": "Bachelor",
-      "startDate": "Sept.2013",
-      "endDate": "Jul.2017",
+      "institution": "@ 西北工业大学明德學院",
+      "area": "計算機科學與技術",
+      "studyType": "本科",
+      "startDate": "2013年9月",
+      "endDate": "2017年7月",
       "gpa": "3.5",
       "courses": [
         "C & Java Programming",

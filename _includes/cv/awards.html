@@ -4,7 +4,7 @@
       <h3 class="entry-title">Awards</h3>
     </header>
 
-    <br><div class="entry-content">
+    <div class="entry-content">
       {% for a in cv.awards %}
         {% if a.title %}
           <h4 class="title">{{ a.title }}</h4>
@@ -13,10 +13,11 @@
           <div class="date">{{ a.date }}</div>
         {% endif %}
         {% if a.awarder %}
-          <div class="awarder">{{ a.awarder | prepend: 'by '}}</div>
+          <div class="awarder">{{ <b>a.awarder</b> | prepend: 'by '}}</div>
         {% endif %}
         {% if a.summary %}
           <div class="summary">{{ a.summary | markdownify }}</div>
+          <br>
         {% endif %}
       {% endfor %}
     </div>

@@ -8,7 +8,7 @@
       {% for s in cv.skills %}
         <div class="taxonomy">
           {% if s.name %}
-            <h4 class="title">{{ s.name }}</h4>
+            <h4 class="title">{{ s.name }}</h4><br/>
           {% endif %}
           {% if s.keywords %}
             <span class="keywords">{{ s.keywords | array_to_sentence_string }}</span>

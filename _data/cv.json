@@ -136,17 +136,14 @@
   ],
   "languages": [
     {
-      "language": "Nonsense",
+      "language": "Chinese",
       "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "The Information Superhighway",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "language": "English",
+      "fluency": "IELTS 6.5 (L:7.0 R:6.5 S:6.0 W:5.5)"
+    }
+  ]
     }
   ]
 }

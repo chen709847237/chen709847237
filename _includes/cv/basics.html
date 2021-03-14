@@ -17,16 +17,16 @@
       <div class="email"><strong>Email-2: </strong> <a href="mailto:{{ cv.basics.email }}">{{ cv.basics.email2 }}</a></div>
     {% endif %}
     {% if cv.basics.phone %}
-      <div class="phone"><strong>Phone</strong> {{ cv.basics.phone }}</div>
+      <div class="phone"><strong>Phone: </strong> {{ cv.basics.phone }}</div>
     {% endif %}
     {% if cv.basics.website %}
-      <div class="website"><strong>Website</strong> <a href="{{ cv.basics.website }}">{{ cv.basics.website }}</a></div>
+      <div class="website"><strong>Website: </strong> <a href="{{ cv.basics.website }}">{{ cv.basics.website }}</a></div>
     {% endif %}
     {% if cv.basics.profiles %}
       {% for p in cv.basics.profiles %}
         <div class="item">
           {% if p.network %}
-            <strong class="network">{{ p.network | append: ' ' }}</strong>
+            <strong class="network">{{ p.network | append: ' ' }}: </strong>
           {% endif %}
           {% if p.username %}
             <span class="username">

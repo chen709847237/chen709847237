@@ -33,7 +33,7 @@
       "institution": "@ University of Macau",
       "area": "Computer Science",
       "studyType": "Master",
-      "startDate": "Aug. 2018",
+      "startDate": "Aug.2018",
       "endDate": "",
       "gpa": "3.8",
       "courses": [
@@ -47,8 +47,8 @@
       "institution": "@ Northwestern Polytechnical University MingDe College",
       "area": "Computer Science & Technology",
       "studyType": "Bachelor",
-      "startDate": "Sept. 2013",
-      "endDate": "Jul. 2017",
+      "startDate": "Sept.2013",
+      "endDate": "Jul.2017",
       "gpa": "3.5",
       "courses": [
         "C & Java Programming",
@@ -71,22 +71,40 @@
       "summary": ""
     }, 
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
+      "title": "National Scholarship",
+      "date": "Nov.2016",
+      "awarder": "Ministry of Education of the PRC",
+      "summary": ""
     }, 
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
+      "title": "Outstanding Student Leader",
+      "date": "Nov.2016",
+      "awarder": "Northwestern Polytechnical University MingDe College",
+      "summary": ""
     }, 
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
+      "title": "Top-class scholarship",
+      "date": "Nov.2016 and Nov.2015",
+      "awarder": "Northwestern Polytechnical University MingDe College",
+      "summary": ""
+    }, 
+    {
+      "title": "Merit Student",
+      "date": "Nov.2015",
+      "awarder": "Northwestern Polytechnical University MingDe College",
+      "summary": ""
+    }, 
+    {
+      "title": "Outstanding Student",
+      "date": "Dec.2014",
+      "awarder": "Northwestern Polytechnical University MingDe College",
+      "summary": ""
+    }, 
+    {
+      "title": "First-class scholarship",
+      "date": "Dec.2014",
+      "awarder": "Northwestern Polytechnical University MingDe College",
+      "summary": ""
     }, 
   ],
   "publications": [

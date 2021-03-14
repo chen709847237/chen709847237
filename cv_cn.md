@@ -1,5 +1,5 @@
 ---
-title: CV (中文)
+title: My CV (中文)
 layout: cv
 actions:
   - label: "Download as PDF"

@@ -44,17 +44,22 @@
       ]
     },
     {
-      "institution": "University of Macau",
-      "area": "Computer Science",
-      "studyType": "Master",
-      "startDate": "Aug. 2018",
-      "endDate": "",
-      "gpa": "3.8",
+      "institution": "•	Northwestern Polytechnical University MingDe College",
+      "area": "Computer Science & Technology",
+      "studyType": "Bachelor",
+      "startDate": "Sept. 2013",
+      "endDate": "Jul. 2017",
+      "gpa": "3.5",
       "courses": [
-        "CISC7013 - PRINCIPLES AND APPLICATIONS OF ARTIFICIAL INTELLIGENCE",
-        "CISC7018 - ADVANCES IN PATTERN RECOGNITION",
-        "CISC7025	- STRUCTURAL BIOINFORMATICS",
-        "CISC7021 - APPLIED NATURAL LANGUAGE PROCESSING"
+        "C & Java Programming",
+        "Data Structure",
+        "Operating System",
+        "Compilers Principles",
+        "Digital Circuits and Logic Programming",
+        "Principle of Computer Composition",
+        "Linear Algebra",
+        "Discrete Mathematics",
+        "Principles of Database and Application",
       ]
     }
   ],

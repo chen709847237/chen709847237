@@ -37,8 +37,24 @@
       "endDate": "",
       "gpa": "3.8",
       "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
+        "CISC7013 - PRINCIPLES AND APPLICATIONS OF ARTIFICIAL INTELLIGENCE",
+        "CISC7018 - ADVANCES IN PATTERN RECOGNITION",
+        "CISC7025	- STRUCTURAL BIOINFORMATICS",
+        "CISC7021 - APPLIED NATURAL LANGUAGE PROCESSING"
+      ]
+    }
+    {
+      "institution": "University of Macau",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "Aug. 2018",
+      "endDate": "",
+      "gpa": "3.8",
+      "courses": [
+        "CISC7013 - PRINCIPLES AND APPLICATIONS OF ARTIFICIAL INTELLIGENCE",
+        "CISC7018 - ADVANCES IN PATTERN RECOGNITION",
+        "CISC7025	- STRUCTURAL BIOINFORMATICS",
+        "CISC7021 - APPLIED NATURAL LANGUAGE PROCESSING"
       ]
     }
   ],

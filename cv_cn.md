@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitæ (中文)
+title: CV (中文)
 layout: cv
 actions:
   - label: "Download as PDF"

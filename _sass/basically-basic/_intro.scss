@@ -31,9 +31,11 @@
 }
 
 .intro-image-home {
-    position: fixed;
-    margin-top: -3rem;
-    margin-bottom: 3rem;
+   
+    position: absolute;
+    margin-top: -37rem;
+    margin-bottom: 0rem;
+    margin-left: -4rem;
     opacity: 0.1;
 
   &::before {

@@ -31,9 +31,10 @@
 }
 
 .intro-image-home {
-  position: relative;
-  margin-top: -3rem; /* compensate for intro top margin */
-  margin-bottom: 3rem;
+    position: fixed;
+    margin-top: -3rem;
+    margin-bottom: 3rem;
+    opacity: 0.1;
 
   &::before {
     position: absolute;

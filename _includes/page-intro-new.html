@@ -1,15 +1,5 @@
 <header class="intro">
   
-    {% if page.image %}
-    {% assign intro_image = page.image.path | default: page.image %}
-    {% unless intro_image contains '://' %}
-    {% assign intro_image = intro_image | relative_url %}
-    {% endunless %}
-    {% assign intro_image = intro_image | escape %}
-    <div class="intro-image-home">
-      <img src="{{ intro_image }}">
-    </div>{% endif %}
-  
   <div class="inner">
     
     <div class="intro-text">
@@ -39,5 +29,16 @@
         </ul>
       {% endif %}
     </div>
+    
+    {% if page.image %}
+    {% assign intro_image = page.image.path | default: page.image %}
+    {% unless intro_image contains '://' %}
+    {% assign intro_image = intro_image | relative_url %}
+    {% endunless %}
+    {% assign intro_image = intro_image | escape %}
+    <div class="intro-image-home">
+      <img src="{{ intro_image }}">
+    </div>{% endif %}
+    
   </div>
 </header>

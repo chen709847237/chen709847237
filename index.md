@@ -1,7 +1,7 @@
 ---
 layout: home
 paginate: true
-alt_title: "&# Hello World"
+alt_title: "&#35; Hello World"
 sub_title: "Hi, this is Ray's Personal Website"
 image: ""
 introduction: |

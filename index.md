@@ -5,12 +5,12 @@ alt_title: "&#35; Hello World ！"
 sub_title: "Hi, this is Ray's Blog"
 image: "/assets/img/lab.jpg"
 introduction: |
-  Hello there, Jiarui Chen (Ray) is a postgraduate student pursuing Master's degree at the University of Macau. His research interests include:
+  Hello there, <strong>Jiarui Chen</strong> (Ray) is a postgraduate student pursuing Master's degree at the <i>University of Macau</i>. His research interests include:
   
   - Machine Learning Techniques (SVM, NN, CNN, GCNN, etc.)
   - Bioinformatics (Drug Virtual Screening, Toxicity Prediction, Peptide Activity Prediction, etc.)
 
-  Currently, he is a member of Computational Biology and Bioinformatics Lab (CBBio) of the University of Macau, under the supervision of Professor Shirley W. I. Siu.
+  Currently, he is a member of <i>Computational Biology and Bioinformatics Lab (CBBio)</i> of the University of Macau, under the supervision of Professor Shirley W. I. Siu.
     
 actions:
   - label: "GitHub"

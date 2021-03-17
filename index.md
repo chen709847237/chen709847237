@@ -10,7 +10,7 @@ introduction: |
   - Machine Learning Techniques (SVM, NN, CNN, GCNN, etc.)
   - Bioinformatics (Drug Virtual Screening, Toxicity Prediction, Peptide Activity Prediction, etc.)
 
-  Currently, he is a member of <strong><i>Computational Biology and Bioinformatics Lab (CBBio)</i></strong> of Department of Computer and Information Science, under the supervision of Professor Shirley W. I. Siu.
+  Currently, he is a member of <strong><i>Computational Biology and Bioinformatics Lab (CBBio)</i></strong> of the Department of Computer and Information Science, under the supervision of Professor Shirley W. I. Siu.
     
 actions:
   - label: "GitHub"

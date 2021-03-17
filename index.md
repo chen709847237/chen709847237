@@ -12,6 +12,6 @@ actions:
     icon: github
     url: "https://github.com/chen709847237"
   - label: "Personal CV"
-    icon: lab
+    icon: cv
     url: "https://raychen.moe/cv.html"
 ---

@@ -18,7 +18,7 @@ title: Ray Chen
 email: chen709847237@gmail.com
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://chen709847237.github.io
+url: "https://raychen.moe"
 author:
   name: Ray Chen
   twitter:
@@ -27,8 +27,8 @@ twitter_username:
 github_username: chen709847237
 logo: "/assets/img/chrome.png"
 search: true
-search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
+search_full_content: true # true, false (default)
+search_provider: lunr # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME

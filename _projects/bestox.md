@@ -1,9 +1,9 @@
 ---
 title: "BESTox"
 image: 
-  path: "" #/assets/img/bestox_logo.jpg        #大图
+  #path: "" #/assets/img/bestox_logo.jpg        #大图
   thumbnail: /assets/img/bestox_logo.jpg       #小图
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  caption: ""
 ---
 
 ### A Convolutional Neural Network Regression Model Based on Binary-Encoded SMILES for Acute Oral Toxicity Prediction of Chemical Compounds.
@@ -20,6 +20,13 @@ This model learns the compositional and chemical properties of compounds from th
 The architecture of our optimized CNN model is presented in Figure. 3. The model contains two convolutional layers (Conv) with 512 and 1024 filters respectively. After each convolutional layer is an average pooling layer and a batch normalization layer (BN). Then, a max pooling layer is used before the learned features fed into the fully connected layers (FC). Four FCs containing 2048, 1024, 512, and 256 hidden nodes were found to be the optimal combination for toxicity prediction and the ReLU function is used to generate the prediction output (-log10(LD50 mol/kg)).
 
 If this server helped you, please cite the following paper:
-```bash
-Jiarui Chen, Hong-Hin Cheong, and Shirley Weng In Siu. BESTox: A Convolutional Neural Network Regression Model Based on Binary-Encoded SMILES for Acute Oral Toxicity Prediction of Chemical Compounds. International Conference on Algorithms for Computational Biology. Springer, Cham, 2020.
+```
+@inproceedings{chen2020bestox,
+  title={Bestox: A convolutional neural network regression model based on binary-encoded SMILES for acute oral toxicity prediction of chemical compounds},
+  author={Chen, Jiarui and Cheong, Hong-Hin and Siu, Shirley Weng In},
+  booktitle={International Conference on Algorithms for Computational Biology},
+  pages={155--166},
+  year={2020},
+  organization={Springer}
+}
 ```

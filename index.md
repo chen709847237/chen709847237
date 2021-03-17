@@ -14,4 +14,7 @@ actions:
   - label: "Personal CV"
     icon: cv
     url: "https://raychen.moe/cv.html"
+  - label: "CBBio Lab"
+    icon: cv
+    url: "https://cbbio.online/"
 ---

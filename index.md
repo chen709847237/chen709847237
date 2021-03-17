@@ -5,7 +5,7 @@ alt_title: "&#35; Hello World ！"
 sub_title: "Hi, this is Ray's Blog"
 image: "/assets/img/lab.jpg"
 introduction: |
-  Hello there, Jiarui Chen (Ray) currently is a postgraduate student pursuing Master's degree at the University of Macau. His research interests include:
+  Hello there, Jiarui Chen (Ray) is a postgraduate student pursuing Master's degree at the University of Macau. His research interests include:
   
   - Machine Learning Techniques (SVM, NN, CNN, GCNN, etc.)
   - Bioinformatics (Drug Virtual Screening, Toxicity Prediction, Peptide Activity Prediction, etc.)

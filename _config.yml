@@ -75,13 +75,13 @@ exclude:
   - /example # ignore Basically Basic dev site
 
 
-# Collections
+# Collections 条件1
 collections:
   recipes:
     output: true
     permalink: /:collection/:path/
 
-# Front Matter Defaults
+# Front Matter Defaults Collections 条件2
 defaults:
   # _posts
   - scope:

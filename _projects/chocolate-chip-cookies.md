@@ -1,8 +1,8 @@
 ---
-title: "Chocolate Chip Cookies"
+title: "BESTox"
 image: 
-  path: /assets/img/chocolate-chip-cookies-lg.jpg
-  thumbnail: /assets/img/chocolate-chip-cookies-400x200.jpg
+  path: /assets/img/bestox_logo.jpg
+  thumbnail: #/assets/img/chocolate-chip-cookies-400x200.jpg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 

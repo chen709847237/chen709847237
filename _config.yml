@@ -17,7 +17,7 @@ lang: en-US
 title: Ray Chen
 email: chen709847237@gmail.com
 description:
-baseurl: “/” # the optional subpath of your site, e.g. "/blog"
+baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://raychen.moe"
 author:
   name: Ray Chen

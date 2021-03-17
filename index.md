@@ -13,13 +13,16 @@ introduction: |
   Currently, he is a member of <strong><i>Computational Biology and Bioinformatics Lab (CBBio)</i></strong> of the Department of Computer and Information Science, under the supervision of Professor Shirley W. I. Siu.
     
 actions:
+  - label: "Projects"
+    icon: project
+    url: "https://raychen.moe/projects/bestox/"
   - label: "GitHub"
     icon: github
     url: "https://github.com/chen709847237"
-  - label: "Personal CV"
-    icon: cv
-    url: "https://raychen.moe/cv.html"
   - label: "CBBio Lab"
     icon: lab
     url: "https://cbbio.online/"
+  - label: "Personal CV"
+    icon: cv
+    url: "https://raychen.moe/cv.html"
 ---

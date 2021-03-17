@@ -1,8 +1,8 @@
 ---
 title: "BESTox"
 image: 
-  path: /assets/img/bestox_logo.jpg
-  thumbnail: ""
+  path: #/assets/img/bestox_logo.jpg
+  thumbnail: /assets/img/bestox_logo.jpg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 

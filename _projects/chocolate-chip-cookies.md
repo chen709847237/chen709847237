@@ -2,7 +2,7 @@
 title: "BESTox"
 image: 
   path: /assets/img/bestox_logo.jpg
-  thumbnail: "" #/assets/img/chocolate-chip-cookies-400x200.jpg
+  thumbnail: ""
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 

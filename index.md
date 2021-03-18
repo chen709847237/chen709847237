@@ -15,7 +15,7 @@ introduction: |
 actions:
   - label: "Projects"
     icon: project
-    url: "https://raychen.moe/projects/bestox/"
+    url: "https://raychen.moe/projects/"
   - label: "GitHub"
     icon: github
     url: "https://github.com/chen709847237"

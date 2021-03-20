@@ -9,7 +9,7 @@ image:
 ### Deep Learning Method for Anticancer Peptide Activity Prediction based on Convolutional Neural Network and Multi-Task Learning
 
 
-# COMING SOON
+# COMING SOON !
 
 
 <br/>

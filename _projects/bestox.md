@@ -1,7 +1,7 @@
 ---
 title: "BESTox"
 image: 
-  path: /assets/img/bestox_logo.jpg        #大图
+  path: /assets/img/bestox_logo.png        #大图
   thumbnail: /assets/img/bestox_logo.jpg       #小图
   caption: ""
 ---

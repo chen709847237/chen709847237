@@ -133,6 +133,13 @@ main {
         width: span(11 of 16);
       }
     }
+     
+    .entry-content-contact-pic {
+      @include breakpoint($medium) {
+        width: span(11 of 16);
+      }
+    }
+     
   }
 
   .entry {

@@ -1,6 +1,6 @@
 ---
 layout: home
-paginate: false
+paginate: true
 alt_title: "&#35; Hello World ！"
 sub_title: "Hi, this is Ray's Blog"
 image: "/assets/img/lab.jpg"

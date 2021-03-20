@@ -1,8 +1,7 @@
 source "https://rubygems.org"
-gemspec
+#gemspec
 
 gem "github-pages", group: :jekyll_plugins
-
 # Jekyll plugins
 group :jekyll_plugins do
   gem "jekyll-feed"
@@ -12,6 +11,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
 end
 
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'jemoji'
-
-#gem "wdm", "~> 0.1.0" if Gem.win_platform?

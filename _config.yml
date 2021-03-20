@@ -97,4 +97,4 @@ defaults:
       type: projects
     values:
       layout: post
-      read_time: true
+      read_time: false

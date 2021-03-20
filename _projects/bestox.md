@@ -9,7 +9,7 @@ image:
 ### A Convolutional Neural Network Regression Model Based on Binary-Encoded SMILES for Acute Oral Toxicity Prediction of Chemical Compounds.
 
 ##### :fire: Online prediction server is available at: [BESTox on CBBio](https://cbbio.online/BESTox/) :fire:
-##### :beginner: More details could be found at [Here](https://cbbio.online/BESTox/?action=datamethod)
+##### :beginner: More details could be found at: [Here](https://cbbio.online/BESTox/?action=datamethod)
 
 ### 1. What's BESTox ?
 BESTox is a novel convolutional neural network regression model, to predict the acute oral toxicity (LD50) of chemical compounds. In a benchmark experiment using a dataset (Oral Rat LD50 set) of 7413 observations (train/test, 5931/1482), BESTox achieved a squared Pearson correlation coefficient (R2) of 0.619, root-mean-squared error (RMSE) of 0.603, and mean absolute error (MAE) of 0.433.

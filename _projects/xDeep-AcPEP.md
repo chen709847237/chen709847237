@@ -1,7 +1,7 @@
 ---
 title: "xDeep-AcPEP"
 image: 
-  path: /assets/img/under_cstruct.jpeg        #大图
+  path: /assets/img/under_cstruct_small.png        #大图
   thumbnail: /assets/img/under_cstruct.jpeg       #小图
   caption: ""
 ---

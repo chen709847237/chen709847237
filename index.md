@@ -1,6 +1,5 @@
 ---
 layout: home
-entries_layout: list
 paginate: true
 alt_title: "&#35; Hello World ！"
 sub_title: "Hi, this is Ray's Blog"

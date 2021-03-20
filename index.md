@@ -3,7 +3,7 @@ layout: home
 paginate: true
 alt_title: "&#35; Hello World ！"
 sub_title: "Hi, this is Ray's Blog"
-image: "/assets/img/lab2.jpg"
+image: "/assets/img/lab2.jpeg"
 introduction: |
   Hello there, <strong>Jiarui Chen</strong> (Ray) is a postgraduate student pursuing Master's degree at the <strong><i>University of Macau</i></strong>. His research interests include:
   

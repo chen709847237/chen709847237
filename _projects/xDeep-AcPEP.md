@@ -1,8 +1,8 @@
 ---
 title: "xDeep-AcPEP"
 image: 
-  path: /assets/img/acpep_logo.png       #大图
-  thumbnail: /assets/img/acpep_logo_sm.png      #小图
+  path: /assets/img/acpep_logo_sm.png     
+  thumbnail: /assets/img/acpep_logo.png   
   caption: ""
 ---
 

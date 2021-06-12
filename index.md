@@ -9,7 +9,7 @@ introduction: |
   
   - Machine Learning Techniques (SVM, NN, CNN, GCNN, etc.)
   &
-  - its Bioinformatics Applications (Drug Virtual Screening, Toxicity Prediction, Peptide Activity Prediction, etc.)
+  - its Bioinformatics Applications (Toxicity Prediction, Peptide Activity Prediction, etc.)
 
   <p class="text-justify">Currently, he is a member of <strong><i>Computational Biology and Bioinformatics Lab (CBBio)</i></strong> of the Department of Computer and Information Science, under the supervision of Professor Shirley W. I. Siu.</p>
     

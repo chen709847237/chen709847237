@@ -6,7 +6,7 @@ image:
   caption: ""
 ---
 
-### A Convolutional Neural Network Regression Model Based on Binary-Encoded SMILES for Acute Oral Toxicity Prediction of Chemical Compounds.
+### A Convolutional Neural Network Regression Model Based on Binary-Encoded SMILES for Acute Oral Toxicity Prediction of Chemical Compounds
 
 ##### :fire: Online prediction server is available at: [BESTox on CBBio](https://cbbio.online/BESTox/) :fire:
 ##### :beginner: More details could be found at: [Here](https://cbbio.online/BESTox/?action=datamethod)

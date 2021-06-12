@@ -1,8 +1,8 @@
 ---
 title: "xDeep-AcPEP"
 image: 
-  path: /assets/img/acpep_logo_sm.png     
-  thumbnail: /assets/img/acpep_logo.png   
+  path: /assets/img/project_acp/acpep_logo_sm.png     
+  thumbnail: /assets/img/project_acp/acpep_logo.png   
   caption: ""
 ---
 
@@ -17,7 +17,7 @@ image:
 ### 2. How this model was developed？
 <p class=\"text-justify\">As shown in the workflow figure (Figure 1), we chose the following 4 descriptors to describe a sequence into numerical form: AAINDEX (AAI), BLOSUM62 (BLO), Z-scale descriptor (ZSC) and Binary profile (BIN). The encoder contains two 1D-convolutional layers with ReLU, two average pooling layers, two batch normalization layers and one max pooling layer. The regressor contains three fully connected layers with one final output neuron. We define the applicability domain (AD) of each model to allow estimation of the uncertainty in the prediction for an unknown instance. The Euclidean distance between an instance and the centroid of the training data in the feature space is measured. If the instance is within a pre-defined cutoff (Z), then prediction can be made with confidence.</p>
 
-<img src="/assets/img/acpep_logo.png" class="align-left" alt="">
+<img src="/assets/img/project_acp/acpep_logo.png" class="align-left" alt="">
 
 
 If this server helped you, please cite the following paper:

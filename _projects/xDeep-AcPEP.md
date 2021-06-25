@@ -8,8 +8,8 @@ image:
 
 ### Deep Learning Method for Anticancer Peptide Activity Prediction based on Convolutional Neural Network and Multi-Task Learning
 
-##### :fire: Online prediction server is available at: [xDeep-AcPEP on CBBio](https://cbbio.online/BESTox/) :fire:
-##### :beginner: More details could be found at: [Here](https://cbbio.online/BESTox/?action=datamethod)
+##### :fire: Online prediction server is available at: [xDeep-AcPEP on CBBio](https://app.cbbio.online/acpep/home) :fire:
+##### :beginner: More details could be found at: [Here](https://app.cbbio.online/acpep/method)
 
 ### 1. What's xDeep-AcPEP ?
 <p>xDeep-AcPEP is a novel regression method based on convolutional neural network and multi-task learning to predict the bioactivity of anticancer peptides. A set of cancer-specific models were trained using the CancerPPD data sets to predict for six tumor cells: breast, colon, cervix, lung, skin, and prostate.</p>
